@@ -5,7 +5,10 @@
  * LICENSE file in the root directory of this source tree.
  */
 
+#import <React/RCTBridge.h>
 #import <React/RCTBridgeDelegate.h>
+#import <React/RCTBundleURLProvider.h>
+#import <React/RCTRootView.h>
 #import <UIKit/UIKit.h>
 
 @interface AppDelegate : UIResponder <UIApplicationDelegate, RCTBridgeDelegate>
