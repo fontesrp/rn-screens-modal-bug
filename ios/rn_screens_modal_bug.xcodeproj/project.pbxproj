@@ -194,7 +194,6 @@
 				B8FA982AF5A418BE216DDF4B /* Pods-rn_screens_modal_bugTests.debug.xcconfig */,
 				596208769961C7C083B4D6FB /* Pods-rn_screens_modal_bugTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -308,6 +307,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
